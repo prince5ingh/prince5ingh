@@ -31,4 +31,7 @@
 ---
 <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Prince Singh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prince5ingh&show_icons=true&hide_border=true" />
+  ![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/languages.svg#gh-light-mode-only)
