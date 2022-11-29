@@ -31,7 +31,4 @@
 ---
 <summary>:zap: Github Stats</summary>
 
-  ![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/prince5ingh/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince5ingh)](https://github.com/prince5ingh/github-readme-stats)
