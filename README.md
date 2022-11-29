@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack web developer with expertise in WordPress plugin & theme development.
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Love playing Chess & Table Tennis
 
 
