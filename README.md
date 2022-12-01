@@ -31,4 +31,4 @@
 ---
 <summary>:zap: Github Stats</summary>
 
-![Prince's GitHub stats](https://github-readme-stats-jade-iota-55.vercel.app/api?username=prince5ingh&show_icons=true&theme=transparent)
+![Prince's GitHub stats](https://github-readme-stats-jade-iota-55.vercel.app/api?username=prince5ingh&show_icons=true&theme=transparent) 
